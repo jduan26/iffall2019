@@ -1,0 +1,43 @@
+header {
+	font-family: "Oswald";
+	font-weight: 400;
+	margin-bottom:20px;
+	margin-left:30px;
+	color:black;
+}
+body{
+	font-family: "Oswald";
+	font-weight: 200;
+	color:white;
+}
+h1{
+	margin-bottom: 5px;
+}
+.Venkman{
+	color:#76cf02;
+}
+.Stantz{
+	color:#00db80;
+}
+.Barrett{
+	color:#00a7d1;
+}
+.Mayor{
+	color:#02e0e8;
+}
+.Spengler{
+	color:#f0a105;
+}
+.Zeddemore{
+	color:yellow;
+}
+div{
+	background-color: #595959;
+	border-radius: 5px;
+	padding: 10px;
+	margin:10px;
+}
+section{
+	margin:20px;
+	margin-bottom:40px;
+}

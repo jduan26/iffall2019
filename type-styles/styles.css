@@ -1,0 +1,50 @@
+html{ /*rem will only default to this */
+	font-size: 24px
+}
+/* for colors you can also use rgba as well as hsla (hue saturation lightness opacity) */
+body {
+	font-family: Arial;
+	/* "sans-serif" refers to the default font 
+	in case the system doesn't have Arial */
+}
+h1{
+	margin-bottom: 10pt;
+}
+.eco{
+	font-family: 'Economica';
+	margin-bottom: 0;
+}
+.norm{
+	color: lightsalmon;
+	margin-bottom:0;
+}
+.sub{
+	font-size:0.5em;
+	margin-top:5px;
+}
+div.left{
+	float:left;
+	width: 10%;
+	margin-right:30px;
+	padding:20px;
+}
+.side{
+	writing-mode: vertical-rl;
+	text-orientation: sideways;
+	font-size: 100px;
+}
+.spaceA{letter-spacing:.3em;}
+.spaceB{letter-spacing:-.06em;}
+.decoA{text-decoration:underline;}
+.decoB{text-decoration:line-through;}
+.decoC{text-decoration:overline;}
+.formA{text-transform: uppercase;}
+.formB{text-transform: lowercase;}
+.formC{text-transform: capitalize;}
+p{
+	margin-top:0px;
+}
+div.right{
+	padding-top:20px;
+	float:left;
+}

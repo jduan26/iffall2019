@@ -34,16 +34,16 @@ img{
 	margin-right:auto;
 	margin-bottom:20px;
 }
-a:link{
+a.vid:link{
 	color:#61c29e;
 	text-decoration: none;
 }
-a:visited{
+a.vid:visited{
 	color:#61c29e;
 	text-decoration: none;
 }
-a:hover{
-	color:#238a78;
+a.vid:hover{
+	color:#019479;
 	text-decoration: none;
 }
 .column{
@@ -69,12 +69,6 @@ a:hover{
 	content: "";
 	display:table;
 	clear:both;
-}
-span.chorus{
-	color:#e95263;
-}
-span.chorus2{
-	color:#f4763d;
 }
 @media screen and (max-width: 600px) {
   .column {

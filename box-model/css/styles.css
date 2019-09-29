@@ -1,0 +1,113 @@
+html{
+	font-family: 'Archivo Narrow', sans-serif;
+}
+section{
+	margin:0;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("https://wudesign.me/resources/html_tracing/images/bg.png");
+	background-position: center top;
+	min-height: 2380px;
+}
+h1{
+	font-weight: bold;
+	font-size: 80px;
+	margin-bottom: 0;
+	margin-top: 65px;
+	color: white;
+}
+h3{
+	font-size: 30px;
+	margin-top: 0;
+	font-weight: bold;
+	color: white;
+}
+.a{
+	text-align: center;
+	padding: 85px;
+	background-image: url("images/10.jpg");
+	height: 310px;
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-size: 40px;
+}
+.b{
+	text-align: center;
+	background-color: #0b1628;
+	padding:6px;
+}
+.b1{
+	margin: auto;
+	width: 960px;
+	margin-bottom: 52px;
+}
+section.b p{
+	color: white;
+	text-align: left;
+	margin-bottom: -2px;
+	line-height: 25px;
+	font-size: 13.5pt;
+	font-weight: 500;
+	letter-spacing: -0.22px;
+}
+.why{
+	letter-spacing: -0.2px;
+}
+.img1{
+	display: inline;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	padding-right: 1px;
+	padding-top: 1px;
+	float: right;
+	width:400px;
+	height:300px;
+}
+
+.c{
+	padding-top: 5px;
+	background-color: #3d437d;
+}
+.row{
+	margin:auto;
+	width: 960px;
+}
+.column{
+	width: 50%;
+	float: left;
+}
+.img2{
+	display: inline;
+	width: 200px;
+	height: 150px;
+	float: left;
+	margin-right: 12px;
+}
+.photo{
+	padding-bottom: 22.5px;
+}
+h4{
+	margin: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+section.c p{
+	font-size: 17.8px;
+    padding-right: 52px;
+    margin-top: 7px;
+    line-height: 19pt;
+    color: white;
+}
+section .d{
+
+}
+section .e{
+
+}
+

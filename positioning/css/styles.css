@@ -1,0 +1,31 @@
+.a{
+	float:right;
+}
+.b{
+	position:absolute;
+	bottom: 0;
+	right: 0;
+}
+.s2{
+	position:relative;
+}
+.c{
+	position:fixed;
+	right: 0;
+	top: 0;
+	background-color: green;
+}
+.d1{
+	background-color: red;
+	position:absolute;
+	margin-left: 295px;
+	margin-top: 0px;
+	z-index: 1;
+}
+.d2{
+	background-color: black;
+	position: absolute;
+	margin-left: 305px;
+	margin-top: 10px;
+	z-index: 0;
+}

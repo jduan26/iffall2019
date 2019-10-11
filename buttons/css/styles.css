@@ -277,7 +277,7 @@ img.harley{
 	margin:auto;
 	width:200px;
 	margin-top:65px;
-	left:90px;
+	margin-left:28px;
 	z-index:-1;
 }
 a#btn_harley:hover{
@@ -290,7 +290,7 @@ a#btn_harley:hover{
 a#btn_garden img{
 	width:150px;
 	height:auto;
-	border: 4px dashed green;
+	border: 4px dashed black;
 	transition-duration: .8s;
 }
 a#btn_garden:hover img{

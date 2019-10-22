@@ -1,0 +1,101 @@
+body{
+	min-height:5000px;
+}
+#main{
+	width: 80%;
+	margin: auto;
+}
+h1{
+	margin-top: 1080px;
+	margin-bottom: .35em;
+	color: #F09553;
+	font-family: 'Rufina', serif;
+	font-weight: 700;
+	font-size: 66pt;
+}
+h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	margin: 10px 0px;
+	font-size: 35pt;
+}
+h3 span{
+	color: #F09553;
+}
+h2{
+	font-family: 'Rufina', serif;
+	font-weight: 400;
+	font-size: 60pt;
+	margin-bottom: 0;
+	margin-top: 55px;
+}
+ul{
+	list-style-type: square;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size:22pt;
+	padding-left: 5%;
+	line-height: 50pt;
+	margin: 20px 0px;
+}
+li strong{
+	font-weight: 500;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 22pt;
+	line-height: 40pt;
+}
+.note{
+	font-style: italic;
+	color: #F09553;
+	margin: 10px 0px;
+}
+.row{
+	display:table-row;
+}
+.Lcol{
+	display:table-cell;
+	margin-top: 10px;
+	width:10%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 50pt;
+	padding-right: 14px;
+	position:relative;
+	top:0.3em;
+	z-index: -1;
+}
+.Rcol{
+	display:table-cell;
+}
+.img{
+	height:120px;
+	border-bottom: 5px solid #F09553;
+	border-top: 5px solid #F09553;
+}
+#headImage{
+	background-size: cover;
+	background-position: center;
+	border-bottom: 20px solid #F09553;
+	margin: 0px;
+	height: 1000px;
+	position: fixed;
+  	top: 0;
+  	left:0;
+ 	width: 100%;
+ 	transition: 0.2s;
+  	transition: height 0.5s;
+}
+.stepOne{
+	background-image: url("images/01.jpg");
+}
+.stepTwo{
+	background-image: url("images/02.jpg");
+}
+.stepThree{
+	background-image: url("images/03.jpg");
+}
+.stepFour{
+	background-image: url("images/04.jpg");
+}

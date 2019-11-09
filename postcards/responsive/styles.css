@@ -40,9 +40,12 @@ body{
 }
 #card3 .text{
 	position:absolute;
-	bottom:3%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+	bottom:4%;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align:center;
 }
 a{
 	position:absolute;
@@ -70,12 +73,13 @@ a{
 		left:15%;
 	}
 	#card2 .text{
-		right:12%;
-		left:14%;
+		right: 6%;
+		left: 10%;
 	}
 	#card3 .text{
-		bottom: -5%;
-		left: 40%;
-		right: 0%;
+		text-align:left;
+		left: 9%;
+		right: 9%;
+		bottom: 5%;
 	}
 }

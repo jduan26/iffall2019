@@ -182,6 +182,9 @@ table tr:nth-child(2n+3){
 	.header h1{
 		margin-left: 1em;
 	}
+	.main img{
+		height:400px;
+	}
 	.links{
 		top:42px;
 		right:9px;
